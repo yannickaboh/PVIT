@@ -25,7 +25,7 @@ SECRET_KEY = '=h_!xibfn$t8-kucvw=p+0s__1et8vthwg!1h+th)aa93cxhu5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pythonanywhere.com', '']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pythonanywhere.com', 'veravillage.herokuapp.com']
 
 # PVIT CONFIGURATION
 TEL_MARCHAND = '077921645'
