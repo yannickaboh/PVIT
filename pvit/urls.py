@@ -29,6 +29,7 @@ urlpatterns = [
 
     # Veravillage site urls
     path('', views.index, name='index'), 
+    path('url_call_back_pvit', views.url_call_back_pvit, name='url_call_back_pvit'), 
 
 
 ]
