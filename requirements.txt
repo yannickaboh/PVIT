@@ -43,7 +43,7 @@ Pygments==2.5.2
 PyPDF2==1.26.0
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==5.2
+PyYAML==5.4
 reportlab==3.5.34
 requests==2.22.0
 six==1.13.0
