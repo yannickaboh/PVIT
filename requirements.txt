@@ -1,6 +1,6 @@
 backcall==0.1.0
 bootstrap-admin==0.4.3
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 decorator==4.4.1
